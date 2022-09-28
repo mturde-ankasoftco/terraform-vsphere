@@ -1,5 +1,4 @@
 #Provider
-
 variable "vsphere_server" {
   default = "testvcenter" // vCenter Server FQDN or IP
   description = "vSphere server"
