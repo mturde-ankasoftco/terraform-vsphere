@@ -1,1 +1,2 @@
-test
+├── main.tf
+└── variables.tf
