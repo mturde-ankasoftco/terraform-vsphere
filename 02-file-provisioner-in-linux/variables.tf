@@ -1,4 +1,3 @@
-
 #Informations
 variable "admin_user" { default = "root" }
 
