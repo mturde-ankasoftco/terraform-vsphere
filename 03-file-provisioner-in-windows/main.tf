@@ -1,4 +1,4 @@
-resource "null_resource" fileProvisionerFolderInLinux {
+resource "null_resource" fileProvisionerFolderInWindows {
 
   connection {
       type = "winrm"
